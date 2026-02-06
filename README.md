@@ -28,17 +28,17 @@ Preview VM details: <br/>
 <br />
 <br />
 VM Created, Right-click on VM. Navigate to VM settings: <br/>
-<img src="https://imgur.com/ssjEnIi" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ssjEnIi" height="80%" width="80%" alt="VM Settings"/>
 <br />
 <br />
 Navigate to CD/DVD(SATA), and Sellect the downloaded ISO image we initially said "We'll install later" now: <br/>
-<img src="https://imgur.com/kMaWw4t" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kMaWw4t" height="80%" width="80%" alt="Browse ISO disk downloaded"/>
 <br />
 <br />Start VM Now: <br/>
-<img src="https://imgur.com/5LdV0Zo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5LdV0Zo" height="80%" width="80%" alt="Start VM"/>
 <br />
 <br />
 Proceed with installation of Windows Server 2025 version (Enter Boot normal): <br/>
-<img src="https://imgur.com/37cLQr3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/37cLQr3" height="80%" width="80%" alt="Boot Normal"/>
 <br />
 <br />
